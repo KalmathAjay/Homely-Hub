@@ -54,7 +54,7 @@ To get started with this project, follow these steps:
 - Clone the repository by running the following command.
 
 ```bash
-git clone https://github.com/KalmathAjay/Mern-stack-internship
+git clone https://github.com/KalmathAjay/Homely-Hub
 ```
 
 #### 2. Install Dependencies
